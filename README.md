@@ -13,3 +13,6 @@ This repository contains lecture materials for the **Synthetic Biology** course.
 ### Week 4 Lecture Materials
 - [Protein Structure Aanalysis Example](Lec4_code.ipynb)
 - [Protein Engineering Example - LigandMPNN](Lec4_ligandMPNN.ipynb)
+
+### Week 5 Lecture Materials
+- [Metabolic Model Example](lec5_metabolic_model.ipynb)
